@@ -3,16 +3,19 @@
 
 
 
-puts "He||0"
+
 
 emp_inf=Hash.new
 
 emp_inf["Name"]="saeb swaity"
 emp_inf["id"]=1253625
 
-emp_inf.each { |n| puts "#{n}" }
 
 
 
-#print emp_inf
+print emp_inf
 
+puts "end "
+puts "end 2"
+
+print "end3"
