@@ -1,9 +1,15 @@
 
 
+
+
+
 puts "He||0"
 
+emp_inf=Hash.new
 
-for i in 1..5
-    print i
-end
+emp_inf["Name"]="saeb swaity"
+
+
+
+print emp_inf
 
