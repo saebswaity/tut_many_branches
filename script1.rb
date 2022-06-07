@@ -19,3 +19,5 @@ puts "end "
 puts "end 2"
 
 print "end3"
+
+print "end3 for class2_fest2"
